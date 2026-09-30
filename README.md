@@ -1,5 +1,31 @@
-# Welcome to GitHub Desktop!
+## Full-Stack Development Learning Journey
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Hi! I'm a first-year undergraduate currently learning Full-Stack Development.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This repository documents my learning journey, practice work, and projects as I gradually build my web development skills.
+
+## Goal
+
+To learn and build skills in:
+
+- Frontend Development
+- Backend Development
+- Databases
+- APIs
+- Git & GitHub
+- Full-Stack Development
+
+## Current Learning
+
+-  HTML
+-  CSS
+- JavaScript
+- Git & GitHub
+
+##  Projects
+
+Projects will be added as I progress through my learning journey.
+
+##  Learning Progress
+
+I'm starting from the fundamentals and will continuously update this repository as I learn and build.
